@@ -60,3 +60,5 @@ backend/var/
 backend/uploads/
 *.sqlite3
 *.db
+backend/.env
+frontend/.env
